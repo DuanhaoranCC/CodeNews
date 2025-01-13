@@ -1,5 +1,3 @@
-# CodeNews
-
 ## Dependencies
 
 ```python
